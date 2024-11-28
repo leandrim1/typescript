@@ -1,0 +1,34 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\Administrador\\Documents\\Faculdade\\bibmath.c",
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "code-runner.executorMap": {
+        "typescript": "npx ts-node --files",
+    },
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "code-runner.runInTerminal": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "redhat.telemetry.enabled": true,
+    "window.commandCenter": false,
+    "window.density.editorTabHeight": "compact",
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.reduceMotion": "off",
+    "terminal.integrated.smoothScrolling": true,
+    "type": "module"
+}

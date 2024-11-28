@@ -13,7 +13,8 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "typescript": "^5.7.2"
+  "ts-node": "^10.9.2",
+  "typescript": "^5.7.2"
   },
   "dependencies": {
     "@typescript-eslint/parser": "^8.16.0",
