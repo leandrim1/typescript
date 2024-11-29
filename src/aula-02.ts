@@ -1,3 +1,14 @@
-const x = 6;
+interface Pessoa {
+    idade: number;
+    nome: string;
+    isMaiorIdade: boolean;
+}
 
-console.log(x);
+let pessoa: Pessoa = {
+    idade: 543,
+    nome: "diadja",
+    isMaiorIdade: true,
+};
+
+
+console.log(pessoa);
