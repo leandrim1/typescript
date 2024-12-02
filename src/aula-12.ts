@@ -14,7 +14,6 @@ class Escola {
 
 class Aluno {
     constructor(public readonly nome: string) {
-
     }
 }
 
